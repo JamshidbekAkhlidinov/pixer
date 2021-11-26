@@ -5,6 +5,10 @@
     font-family: Open Sans;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .container {
     width: 1140px;
     margin: 0px auto;
