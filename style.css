@@ -14,6 +14,20 @@ html {
     margin: 0px auto;
 }
 
+@media (max-width:1140px) {
+    .container {
+        width: 1140px;
+        margin: 0px auto;
+    }
+}
+
+@media (max-width:1020px) {
+    .container {
+        width: 900px;
+        margin: 0px auto;
+    }
+}
+
 .header {
     padding-top: 18px;
     padding-bottom: 18px;
